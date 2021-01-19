@@ -1,0 +1,7 @@
+@import "../font.css";
+
+h1 {
+  font-family: "KeAiDe";
+  font-weight: 600;
+  color: aliceblue;
+}

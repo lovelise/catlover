@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "jiaotang";
+  font-style: normal;
+  font-weight: normal;
+  src: url(./fonts/jiaotang/焦糖晚安酒.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "KeAiDe";
+  font-style: normal;
+  font-weight: normal;
+  src: url(./fonts/KeAiDeKeAi/FangZhengKeAiDeKeAi-2.ttf) format("truetype");
+}

@@ -1,0 +1,12 @@
+@import "./font.css";
+
+body {
+  margin: 0;
+  font-family: "KeAiDe";
+  background-image: linear-gradient(to right, #fbc2eb 5%, #a6c1ee 60%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
