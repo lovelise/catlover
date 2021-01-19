@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github.com/catlover/static/css/main.62ecb248.chunk.css",
-    "main.js": "/github.com/catlover/static/js/main.76bc07a4.chunk.js",
-    "main.js.map": "/github.com/catlover/static/js/main.76bc07a4.chunk.js.map",
+    "main.js": "/github.com/catlover/static/js/main.395f2fbc.chunk.js",
+    "main.js.map": "/github.com/catlover/static/js/main.395f2fbc.chunk.js.map",
     "runtime-main.js": "/github.com/catlover/static/js/runtime-main.e5f9f2a4.js",
     "runtime-main.js.map": "/github.com/catlover/static/js/runtime-main.e5f9f2a4.js.map",
     "static/css/2.31461e4f.chunk.css": "/github.com/catlover/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.3b69ceff.chunk.js",
     "static/css/main.62ecb248.chunk.css",
-    "static/js/main.76bc07a4.chunk.js"
+    "static/js/main.395f2fbc.chunk.js"
   ]
 }
